@@ -1,0 +1,6 @@
+StringObj,IntegerObj,DoubleObj
+x,4,3.14
+y,5,4.56
+z,6,2.33
+z,4,5.66
+w,8,4.12

@@ -1,0 +1,8 @@
+col1, col2, col3
+INT, VARCHAR(60), DOUBLE
+3, "tekst1", 3.451
+4, "tekst2", 3.452
+5, "tekst3", 3.453
+6, "tekst4", 3.454
+3, "tekst2", 6.653
+3, "teksthe", 3.9653
